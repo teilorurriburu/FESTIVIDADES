@@ -1,0 +1,6 @@
+@FESTIVID_HUAMAGA_HostAddress = http://localhost:5094
+
+GET {{FESTIVID_HUAMAGA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
